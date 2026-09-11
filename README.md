@@ -1,4 +1,4 @@
-# Zeyed
+# Bix
 
 **Cybersecurity Researcher · Bug Bounty Hunter · Offensive Security**
 
@@ -42,14 +42,6 @@ I focus on web application security, vulnerability research, reconnaissance, and
 
 ---
 
-## Featured Project
-
-**[logs-bot-zedx](https://github.com/zedx12/logs-bot-zedx)**  
-A Discord server logging and moderation bot built with discord.py. Tracks message edits/deletions, member join/leave events, and voice channel activity; includes admin slash commands to configure the log channel and view server stats.  
-`Python` `discord.py` `python-dotenv`
-
----
-
 ## Bug Bounty & Security Research
 
 Actively hunting on public bug bounty programs, currently in the reconnaissance and vulnerability-research phase across multiple engagements. In line with responsible disclosure, I don't publish program names, targets, or findings here until they are triaged/resolved and disclosure is permitted.
@@ -68,7 +60,7 @@ Actively hunting on public bug bounty programs, currently in the reconnaissance 
 
 ## GitHub Stats
 
-![zedx12's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedx12&show_icons=true&hide_title=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zedx12&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
