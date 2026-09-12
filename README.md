@@ -28,7 +28,8 @@ I focus on web application security, vulnerability research, reconnaissance, and
 • Linux, networking, Git  
 • Recon and testing pipelines
 
-**Cryptography** (learning)  
+**Cryptography** 
+
 • AES, RSA, hash functions, HMAC, OpenSSL
 
 ---
